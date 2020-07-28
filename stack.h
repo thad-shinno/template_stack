@@ -1,3 +1,4 @@
+// @author Thad Shinno
 #ifndef STACK_H
 #define STACK_H
 #include <iostream>
